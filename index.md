@@ -31,7 +31,6 @@ To prepare the dataset for plotting, I loaded the CSV into row dictionaries, tra
 
 ## Figure 1. Distribution of reported course difficulty
 ![difficulty_hist](/github.io-zx-path/image.png)
-<img src="image.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 Most difficulty ratings fall in the mid-to-high range (around 4–6), suggesting many students experience COMP110 as moderately to highly challenging rather than “easy.”
 
