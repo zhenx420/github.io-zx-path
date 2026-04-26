@@ -29,13 +29,28 @@ To prepare the dataset for plotting, I loaded the CSV into row dictionaries, tra
 
 ## Results
 
+## Figure 1. Distribution of reported course difficulty
+![alt text](image.png)
+
 Most difficulty ratings fall in the mid-to-high range (around 4–6), suggesting many students experience COMP110 as moderately to highly challenging rather than “easy.”
+
+## Figure 2. Distribution of reported course understanding
+![alt text](image-1.png)
 
 Understanding ratings cluster around the mid-to-high range, but there is still spread downward. This indicates that while many students feel they understand the course reasonably well, a noticeable subgroup reports lower understanding.
 
+## Figure 3. Distribution of perceived quiz effectiveness
+![alt text](image-2.png)
+
 Quiz effectiveness responses are concentrated around 5–7. This suggests quizzes generally feel helpful for many students, but this does not automatically mean they work equally well for students who feel the course is difficult.
 
+## Figure 4. Difficulty vs. understanding (scatterplot)
+![alt text](image-3.png)
+
 The scatterplot suggests a negative relationship between course difficulty and reported understanding: higher difficulty ratings (especially 6–7) include many lower understanding values. This pattern is consistent with the idea that students who feel the course is harder are more likely to still feel confused.
+
+## Figure 5. Understanding by difficulty rating (box plot)
+![alt text](image-4.png)
 
 The box plot makes the same pattern easier to interpret: the median understanding decreases as difficulty increases, and the lowest typical understanding occurs at difficulty level 7. This supports the interpretation that increased difficulty is associated with decreased understanding.
 
