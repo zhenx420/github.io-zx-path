@@ -29,7 +29,7 @@ github_username:  zhenx420
 
 # Build settings
 # Build settings
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-remote-theme
