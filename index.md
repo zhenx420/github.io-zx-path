@@ -6,7 +6,7 @@ layout: default
 # EX09: Data Analysis for Continuous Improvement
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/Users/mc/comp110-26s-workspace/personal-site.github.io/static/imgs" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="/Users/mc/comp110-26s-workspace/personal-site.github.io/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Proposal (Idea)
 
