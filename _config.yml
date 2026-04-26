@@ -22,7 +22,7 @@ title: Xi's website
 email: zhenx@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
  EX09 - Data Analysis for Continuous Improvement 
-baseurl: "/zx-path" # the subpath of your site, e.g. /blog
+baseurl: "/github.io-zx-path" # the subpath of your site, e.g. /blog
 url: "https://zhenx420.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
 github_username:  zhenx420
